@@ -1,0 +1,70 @@
+.header{
+font-weight: bold;
+font-size: 40;
+font-family: fantasy;
+}
+.header2{
+	font-family: fantasy;
+	font-size: 40;
+	font-variant: small-caps;
+}
+.headtable{
+	background-color: #FFCCCC;
+	
+
+}
+.table{
+	font-family: sans-serif;
+
+}
+.tablerows:hover{
+	background-color: #ffc;
+}
+td:first-letter{
+font-size: 20px;
+color: #CC3366;
+font-weight: bold;
+}
+.row1:hover{
+	background-color: #f3c;
+}
+ul{
+	list-style: none;
+}
+
+a{
+	color:#865CAC ;
+	text-decoration: none;
+}
+a:hover{
+    color: #a3f;
+}
+.image{
+	width: 100px;
+
+}
+.image:hover{
+	width: 200px;
+	height: 200px;
+}
+.bluetext{
+	font-size: 14px;
+	font-family: "Segoe UI";
+	background-color: #3333AA;
+	color: white;
+}
+	.bottext{
+	color:#545454;
+	font-family: "Segoe UI Light";
+	font-size: 20px;
+	}
+
+.bottext:first-line{
+	color: #B89090;
+	font-style: italic;
+}
+.bottext:first-letter{
+	color:#EEAA44;
+	font-size: 32px;
+	font-weight: bold; 
+}
